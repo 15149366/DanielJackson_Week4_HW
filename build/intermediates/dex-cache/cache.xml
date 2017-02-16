@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Daniel_Jackson2/Google Drive/College/Year 2 Sem 2/Performance Tech 1/Lab 4/Daniel_Jackson_Lab_04/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/Daniel_Jackson2/Google Drive/College/Year 2 Sem 2/Performance Tech 1/Lab 4/Daniel_Jackson_Lab_04/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_726fa9cc147b538e32b6d048afcd7216265783ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Daniel_Jackson2/Google Drive/College/Year 2 Sem 2/Performance Tech 1/Lab 4/Daniel_Jackson_Lab_04/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a35b73ff5c4ab6af57b21c03b9b3aa234d816a7f">
+        <dex dex="/Users/Daniel_Jackson2/Google Drive/College/Year 2 Sem 2/Performance Tech 1/Lab 4/Daniel_Jackson_Lab_04/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.noisepages.nettoyeur-midi-1.0.0-rc1_9add4ddbcae57d5051bf37fc4a66f30006635a41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Daniel_Jackson2/Google Drive/College/Year 2 Sem 2/Performance Tech 1/Lab 4/Daniel_Jackson_Lab_04/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/Daniel_Jackson2/Google Drive/College/Year 2 Sem 2/Performance Tech 1/Lab 4/Daniel_Jackson_Lab_04/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_d04e613af00895ac067b647356d18ca5b73b2c33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Daniel_Jackson2/Google Drive/College/Year 2 Sem 2/Performance Tech 1/Lab 4/Daniel_Jackson_Lab_04/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/Daniel_Jackson2/Google Drive/College/Year 2 Sem 2/Performance Tech 1/Lab 4/Daniel_Jackson_Lab_04/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_2ed35671b8ad705367dd95c32dbdda1153e9442a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Daniel_Jackson2/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/Daniel_Jackson2/Google Drive/College/Year 2 Sem 2/Performance Tech 1/Lab 4/Daniel_Jackson_Lab_04/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_25ea6d6b17ce4947883e07e0d500db67dab15f4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Daniel_Jackson2/Google Drive/College/Year 2 Sem 2/Performance Tech 1/Lab 4/Daniel_Jackson_Lab_04/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="31f467f2df5d016e931fdec3903a344b73546dcd">
+        <dex dex="/Users/Daniel_Jackson2/Google Drive/College/Year 2 Sem 2/Performance Tech 1/Lab 4/Daniel_Jackson_Lab_04/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1f8905c25bff7519113858c1a4e3b9a9cdc52317/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Daniel_Jackson2/Google Drive/College/Year 2 Sem 2/Performance Tech 1/Lab 4/Daniel_Jackson_Lab_04/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="79334435f653b507dd64f120572d49d9620bbf49">
+        <dex dex="/Users/Daniel_Jackson2/Google Drive/College/Year 2 Sem 2/Performance Tech 1/Lab 4/Daniel_Jackson_Lab_04/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.puredata.android-pd-core-1.0.2_41b1631f7859c3981f770480e06a1083e3df37e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Daniel_Jackson2/Google Drive/College/Year 2 Sem 2/Performance Tech 1/Lab 4/Daniel_Jackson_Lab_04/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/Daniel_Jackson2/Google Drive/College/Year 2 Sem 2/Performance Tech 1/Lab 4/Daniel_Jackson_Lab_04/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_8bb1a60c6800781cc0a4c0b6c5b199260ce7d5b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Daniel_Jackson2/Google Drive/College/Year 2 Sem 2/Performance Tech 1/Lab 4/Daniel_Jackson_Lab_04/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Daniel_Jackson2/Google Drive/College/Year 2 Sem 2/Performance Tech 1/Lab 4/Daniel_Jackson_Lab_04/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_0d228304db385694b9478dc5dbe1e48001434290/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Daniel_Jackson2/Google Drive/College/Year 2 Sem 2/Performance Tech 1/Lab 4/Daniel_Jackson_Lab_04/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/Daniel_Jackson2/Google Drive/College/Year 2 Sem 2/Performance Tech 1/Lab 4/Daniel_Jackson_Lab_04/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_f1e964c08950e7a31e2fa900529959ec36422a11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Daniel_Jackson2/Google Drive/College/Year 2 Sem 2/Performance Tech 1/Lab 4/Daniel_Jackson_Lab_04/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/Daniel_Jackson2/Google Drive/College/Year 2 Sem 2/Performance Tech 1/Lab 4/Daniel_Jackson_Lab_04/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_221f6d7d4e83d1a801e8b2ecea00eeb213257415/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Daniel_Jackson2/Google Drive/College/Year 2 Sem 2/Performance Tech 1/Lab 4/Daniel_Jackson_Lab_04/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/Daniel_Jackson2/Google Drive/College/Year 2 Sem 2/Performance Tech 1/Lab 4/Daniel_Jackson_Lab_04/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_7be5411b6bc9e1acf5063c3de43678848195ba22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Daniel_Jackson2/Google Drive/College/Year 2 Sem 2/Performance Tech 1/Lab 4/Daniel_Jackson_Lab_04/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/Daniel_Jackson2/Google Drive/College/Year 2 Sem 2/Performance Tech 1/Lab 4/Daniel_Jackson_Lab_04/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_f4abff8f293a6fce12269c2860fe6869417d3cb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Daniel_Jackson2/Google Drive/College/Year 2 Sem 2/Performance Tech 1/Lab 4/Daniel_Jackson_Lab_04/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c83fbde55c05bc186002d7ce3570d619c3d6ee1f">
+        <dex dex="/Users/Daniel_Jackson2/Google Drive/College/Year 2 Sem 2/Performance Tech 1/Lab 4/Daniel_Jackson_Lab_04/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-gridlayout-v7-25.1.0_03d94c0f37e4e1b17d01751e3c9e4671bc459aa4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Daniel_Jackson2/Google Drive/College/Year 2 Sem 2/Performance Tech 1/Lab 4/Daniel_Jackson_Lab_04/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a930b47dd0c84f76b864a21ce095a8c04a7d0ef2">
+        <dex dex="/Users/Daniel_Jackson2/Google Drive/College/Year 2 Sem 2/Performance Tech 1/Lab 4/Daniel_Jackson_Lab_04/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3d67d38873b99e9f12bc9e82bc297b9c898882ca/classes.dex" />
+    </item>
+
+</items>
